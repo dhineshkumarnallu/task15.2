@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(rgb(146, 180, 230),rgb(110, 214, 233));
+    display: grid;
+    place-items: center;
+    height: 100%;
+  }
+  #title{
+    text-align:center;
+  }
+  table,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+  }
+  td {
+    padding: 5px;
+    text-align: left;
+    width: 300px;
+  }
+   
+  
+  th{
+    color: blue;
+  }
+  tr{
+    color: rgb(240, 7, 38);
+  }
+  
